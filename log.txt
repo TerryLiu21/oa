@@ -4,5 +4,5 @@ aaaaaa
 bbbbbb
 333333
 
-public void main(String[] a)
-select * from sys_users
+
+select * from sys_use
