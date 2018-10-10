@@ -5,4 +5,9 @@ bbbbbb
 333333
 
 
+
 select * from sys_use
+
+
+delete from sys_users
+
