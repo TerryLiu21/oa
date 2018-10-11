@@ -11,3 +11,6 @@ cccccc
 
 linux's driver
 author junliang
+
+--------------------------
+edit the log.txt file by Mike
